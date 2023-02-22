@@ -97,5 +97,3 @@ class MainActivity : AppCompatActivity() {
     private const val TAG = "MainActivity"
   }
 }
-
-// TESTING
